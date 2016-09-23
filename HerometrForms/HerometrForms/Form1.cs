@@ -21,7 +21,7 @@ namespace HerometrForms
         {
             for (int i = 0; i < 10; i++)
             {
-                MessageBox.Show("Хуй456");
+                MessageBox.Show("Хуй");
             }
 
         }
