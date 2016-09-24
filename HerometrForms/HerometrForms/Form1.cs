@@ -21,7 +21,7 @@ namespace HerometrForms
         {
             for (int i = 0; i < 10; i++)
             {
-                MessageBox.Show("Хуй");
+                MessageBox.Show("Хуй 2км в диаметре");
             }
 
         }
