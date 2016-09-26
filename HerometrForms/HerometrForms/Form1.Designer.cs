@@ -33,7 +33,7 @@
             // 
             // btnHui
             // 
-            this.btnHui.Location = new System.Drawing.Point(67, 63);
+            this.btnHui.Location = new System.Drawing.Point(99, 32);
             this.btnHui.Name = "btnHui";
             this.btnHui.Size = new System.Drawing.Size(75, 23);
             this.btnHui.TabIndex = 0;
